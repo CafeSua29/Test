@@ -22,4 +22,6 @@
     }
 }
 
-inHinhThoi(11);
+inHinhThoi(1);
+inHinhThoi(13);
+
