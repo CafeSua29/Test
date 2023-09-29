@@ -22,4 +22,4 @@
     }
 }
 
-inHinhThoi(7);
+inHinhThoi(9);
